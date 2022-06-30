@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Heven Kin
-- I'm a student of the senior high school and just starting learning with codes.
+- I'm a student of the senior high school and just a rookies.
 - zh_CN & en_US.
 - My Github Stats:
 
