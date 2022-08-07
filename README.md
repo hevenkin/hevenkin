@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Heven Kin
-- I'm a student of the senior high school and just a rookie.
+- I'm a student in ZCST and just a rookie.
 - zh_CN & en_US.
 - My Github Stats:
 
