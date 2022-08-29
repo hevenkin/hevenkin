@@ -1,9 +1,6 @@
 ## Hi there 👋 I'm Heven Kin
 - I'm a student in ZCST and just a rookie.
 - zh_CN & en_US.
-- My Github Stats:
-
-![hevenkin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hevenkin&show_icons=true&layout=compact)
 
 ## 🌱 What I'm learning
 - C/C++/Kotlin
