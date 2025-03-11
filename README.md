@@ -3,7 +3,7 @@
 - zh_CN & en_US.
 
 ## 🌱 What I'm learning
-- C/C++/Kotlin
+- C/C++
 
 ## 📫 How to reach me
 [QQ](http://wpa.qq.com/msgrd?v=3&uin=1359244012&site=qq&menu=yes)
